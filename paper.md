@@ -1,6 +1,7 @@
 # Authors
-John Smith
-Gerard Capes
+John Smith, University of Elsewhere
+Gerard Capes, Univrsity of Manchester
+
 
 # Title
 Model-measurement comparison of biomass burning aerosol
