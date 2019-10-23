@@ -1,6 +1,6 @@
 # Authors
-Gerard Capes
 John Smith
+Gerard Capes
 
 # Title
 Model-measurement comparison of biomass burning aerosol
