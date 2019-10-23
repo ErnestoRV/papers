@@ -1,9 +1,11 @@
 # Authors
 Gerard Capes
+John Smith
 
 # Title
-Size measurements of biomass burning aerosol
-over West Africa
+Model-measurement comparison of biomass burning aerosol
+aging over West Africa
+
 
 #Introduction
 We present measurements of BBOA over West Africa.
@@ -14,3 +16,7 @@ in this region, but continental-scale
 measurements have not preaviously been made.
 
 Add third paper in intro.
+
+# Simulations
+We simulate the evolution of BBOA over W Africa,
+using John's model.
