@@ -7,7 +7,7 @@ Model-measurement comparison of biomass burning aerosol
 aging over West Africa
 
 
-#Introduction
+# Introduction
 We present measurements of BBOA over West Africa.
 Particle size was measured using a PCASP,
 as described in Bloggs et al 2004.
@@ -24,3 +24,7 @@ using John's model.
 # Methodology
 We compared simulations from John's model
 (Smith et al 2005) with our measurements.
+
+# Results
+Our simulations and measurements indicate that
+particle growth is dominated by coagulation.
