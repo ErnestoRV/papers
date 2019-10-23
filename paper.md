@@ -1,8 +1,9 @@
 # Authors
 Gerard Capes
+John Smith
 
 # Title
-Measurements of biomass burning aerosol over
+Aging of biomass burning aerosol over
 West Africa
 
 #Introduction
